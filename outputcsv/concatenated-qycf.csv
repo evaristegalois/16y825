@@ -1,0 +1,457 @@
+NO OF FIELDS,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,filename
+SET NAME,,,,,,LabReport03,summary,%score,python
+PROB NUMBER,,,,,,,,,python
+CLOSE DATE,,,,,,,,,python
+CLOSE TIME,,,,,,,,,python
+PROB VALUE,,,,,,17,17,100,python
+STUDENT ID,login ID,LAST NAME,FIRST NAME,SECTION,RECITATION,total,,,python
+A01256902,A01256902,Adam,Bryce,,,17,17,100,python
+bcit_admin,bcit_admin,Administrator,,,,0,0,0,python
+A01006494,A01006494,Akhgarzhand,Kaveh,,,17,17,100,python
+A01272941,A01272941,Ariss,Jasmine,,,16,16,94.12,python
+A01282057,A01282057,Arnold,Spencer,,,17,17,100,python
+A01295865,A01295865,Chau,Johnathan,,,12,12,70.59,python
+A01281182,A01281182,Dougall,Ryan,,,16,16,94.12,python
+A01226824,A01226824,Gill,Vikram,,,17,17,100,python
+A01159131,A01159131,Hacioglu,Irfan,,,17,17,100,python
+A01281200,A01281200,Hung,Bailey,,,17,17,100,python
+A01030381,A01030381,Hyra-Woodman,Conor,,,17,17,100,python
+A01248771,A01248771,Islam,Hassan,,,17,17,100,python
+A00940835,A00940835,Lin,Derek,,,17,17,100,python
+A00746035,A00746035,Linforth,Braedon,,,17,17,100,python
+A01010078,A01010078,Lukits,Stefan,,,0,0,0,python
+A01217376,A01217376,MiraAcosta,Jonathan,,,13,13,76.47,python
+A01248193,A01248193,Moy,Russell,,,17,17,100,python
+A01276339,A01276339,Nguyen,Tony,,,17,17,100,python
+A01280488,A01280488,Olfert,Riley,,,17,17,100,python
+A01073920,A01073920,Pinette,Brennan,,,17,17,100,python
+A01178066,A01178066,Posnikoff,Nicholas,,,17,17,100,python
+A01268816,A01268816,Prabhu,Vrishank,,,1,1,5.88,python
+A01298718,A01298718,Reid,Bryce,,,17,17,100,python
+A00913638,A00913638,Sarabia,Federico,,,17,17,100,python
+A01258024,A01258024,Sasaki,Kento,,,17,17,100,python
+A00948844,A00948844,Schmeisser,Lee,,,16.71,16.71,98.29,python
+A01255181,A01255181,Scott,Nicholas,,,17,17,100,python
+A01186114,A01186114,Sun,Kewei,,,17,17,100,python
+A01058341,A01058341,Virk,Gurpratap,,,14,14,82.35,python
+A01259742,A01259742,Wang,Jimmy ,,,17,17,100,python
+A01191808,A01191808,Weir,Alexander,,,17,17,100,python
+A01268383,A01268383,Wyse,Kale,,,13,13,76.47,python
+SET NAME,,,,,,LabReport04,summary,%score,python
+PROB NUMBER,,,,,,,,,python
+CLOSE DATE,,,,,,,,,python
+CLOSE TIME,,,,,,,,,python
+PROB VALUE,,,,,,19,19,100,python
+STUDENT ID,login ID,LAST NAME,FIRST NAME,SECTION,RECITATION,total,,,python
+A01256902,A01256902,Adam,Bryce,,,18,18,94.74,python
+bcit_admin,bcit_admin,Administrator,,,,0,0,0,python
+A01006494,A01006494,Akhgarzhand,Kaveh,,,19,19,100,python
+A01272941,A01272941,Ariss,Jasmine,,,19,19,100,python
+A01282057,A01282057,Arnold,Spencer,,,19,19,100,python
+A01295865,A01295865,Chau,Johnathan,,,9,9,47.37,python
+A01281182,A01281182,Dougall,Ryan,,,16,16,84.21,python
+A01226824,A01226824,Gill,Vikram,,,19,19,100,python
+A01159131,A01159131,Hacioglu,Irfan,,,17.75,17.75,93.42,python
+A01281200,A01281200,Hung,Bailey,,,19,19,100,python
+A01030381,A01030381,Hyra-Woodman,Conor,,,19,19,100,python
+A01248771,A01248771,Islam,Hassan,,,19,19,100,python
+A00940835,A00940835,Lin,Derek,,,19,19,100,python
+A00746035,A00746035,Linforth,Braedon,,,19,19,100,python
+A01010078,A01010078,Lukits,Stefan,,,0,0,0,python
+A01217376,A01217376,MiraAcosta,Jonathan,,,19,19,100,python
+A01248193,A01248193,Moy,Russell,,,19,19,100,python
+A01276339,A01276339,Nguyen,Tony,,,19,19,100,python
+A01280488,A01280488,Olfert,Riley,,,19,19,100,python
+A01073920,A01073920,Pinette,Brennan,,,18.5,18.5,97.37,python
+A01178066,A01178066,Posnikoff,Nicholas,,,17.5,17.5,92.11,python
+A01268816,A01268816,Prabhu,Vrishank,,,13,13,68.42,python
+A01298718,A01298718,Reid,Bryce,,,19,19,100,python
+A00913638,A00913638,Sarabia,Federico,,,19,19,100,python
+A01258024,A01258024,Sasaki,Kento,,,19,19,100,python
+A00948844,A00948844,Schmeisser,Lee,,,19,19,100,python
+A01255181,A01255181,Scott,Nicholas,,,18.75,18.75,98.68,python
+A01186114,A01186114,Sun,Kewei,,,19,19,100,python
+A01058341,A01058341,Virk,Gurpratap,,,6,6,31.58,python
+A01259742,A01259742,Wang,Jimmy ,,,19,19,100,python
+A01191808,A01191808,Weir,Alexander,,,19,19,100,python
+A01268383,A01268383,Wyse,Kale,,,13,13,68.42,python
+SET NAME,,,,,,LabReport12,summary,%score,python
+PROB NUMBER,,,,,,,,,python
+CLOSE DATE,,,,,,,,,python
+CLOSE TIME,,,,,,,,,python
+PROB VALUE,,,,,,12,12,100,python
+STUDENT ID,login ID,LAST NAME,FIRST NAME,SECTION,RECITATION,total,,,python
+A01256902,A01256902,Adam,Bryce,,,12,12,100,python
+bcit_admin,bcit_admin,Administrator,,,,0,0,0,python
+A01006494,A01006494,Akhgarzhand,Kaveh,,,11.75,11.75,97.92,python
+A01272941,A01272941,Ariss,Jasmine,,,12,12,100,python
+A01282057,A01282057,Arnold,Spencer,,,12,12,100,python
+A01295865,A01295865,Chau,Johnathan,,,3.5,3.5,29.17,python
+A01281182,A01281182,Dougall,Ryan,,,12,12,100,python
+A01226824,A01226824,Gill,Vikram,,,12,12,100,python
+A01159131,A01159131,Hacioglu,Irfan,,,12,12,100,python
+A01281200,A01281200,Hung,Bailey,,,12,12,100,python
+A01030381,A01030381,Hyra-Woodman,Conor,,,12,12,100,python
+A01248771,A01248771,Islam,Hassan,,,12,12,100,python
+A00940835,A00940835,Lin,Derek,,,12,12,100,python
+A00746035,A00746035,Linforth,Braedon,,,12,12,100,python
+A01010078,A01010078,Lukits,Stefan,,,0,0,0,python
+A01217376,A01217376,MiraAcosta,Jonathan,,,12,12,100,python
+A01248193,A01248193,Moy,Russell,,,11.67,11.67,97.25,python
+A01276339,A01276339,Nguyen,Tony,,,10,10,83.33,python
+A01280488,A01280488,Olfert,Riley,,,12,12,100,python
+A01073920,A01073920,Pinette,Brennan,,,8.92,8.92,74.33,python
+A01178066,A01178066,Posnikoff,Nicholas,,,12,12,100,python
+A01268816,A01268816,Prabhu,Vrishank,,,12,12,100,python
+A01298718,A01298718,Reid,Bryce,,,12,12,100,python
+A00913638,A00913638,Sarabia,Federico,,,12,12,100,python
+A01258024,A01258024,Sasaki,Kento,,,12,12,100,python
+A00948844,A00948844,Schmeisser,Lee,,,12,12,100,python
+A01255181,A01255181,Scott,Nicholas,,,12,12,100,python
+A01186114,A01186114,Sun,Kewei,,,0,0,0,python
+A01058341,A01058341,Virk,Gurpratap,,,12,12,100,python
+A01259742,A01259742,Wang,Jimmy ,,,12,12,100,python
+A01191808,A01191808,Weir,Alexander,,,12,12,100,python
+A01268383,A01268383,Wyse,Kale,,,2,2,16.67,python
+SET NAME,,,,,,LabReport05,summary,%score,python
+PROB NUMBER,,,,,,,,,python
+CLOSE DATE,,,,,,,,,python
+CLOSE TIME,,,,,,,,,python
+PROB VALUE,,,,,,19,19,100,python
+STUDENT ID,login ID,LAST NAME,FIRST NAME,SECTION,RECITATION,total,,,python
+A01256902,A01256902,Adam,Bryce,,,17.5,17.5,92.11,python
+bcit_admin,bcit_admin,Administrator,,,,0,0,0,python
+A01006494,A01006494,Akhgarzhand,Kaveh,,,17.5,17.5,92.11,python
+A01272941,A01272941,Ariss,Jasmine,,,16.5,16.5,86.84,python
+A01282057,A01282057,Arnold,Spencer,,,19,19,100,python
+A01295865,A01295865,Chau,Johnathan,,,7,7,36.84,python
+A01281182,A01281182,Dougall,Ryan,,,14,14,73.68,python
+A01226824,A01226824,Gill,Vikram,,,18,18,94.74,python
+A01159131,A01159131,Hacioglu,Irfan,,,18,18,94.74,python
+A01281200,A01281200,Hung,Bailey,,,19,19,100,python
+A01030381,A01030381,Hyra-Woodman,Conor,,,17.5,17.5,92.11,python
+A01248771,A01248771,Islam,Hassan,,,19,19,100,python
+A00940835,A00940835,Lin,Derek,,,18,18,94.74,python
+A00746035,A00746035,Linforth,Braedon,,,18.75,18.75,98.68,python
+A01010078,A01010078,Lukits,Stefan,,,0,0,0,python
+A01217376,A01217376,MiraAcosta,Jonathan,,,18,18,94.74,python
+A01248193,A01248193,Moy,Russell,,,17.25,17.25,90.79,python
+A01276339,A01276339,Nguyen,Tony,,,17,17,89.47,python
+A01280488,A01280488,Olfert,Riley,,,19,19,100,python
+A01073920,A01073920,Pinette,Brennan,,,12,12,63.16,python
+A01178066,A01178066,Posnikoff,Nicholas,,,19,19,100,python
+A01268816,A01268816,Prabhu,Vrishank,,,12.67,12.67,66.68,python
+A01298718,A01298718,Reid,Bryce,,,18,18,94.74,python
+A00913638,A00913638,Sarabia,Federico,,,17.88,17.88,94.11,python
+A01258024,A01258024,Sasaki,Kento,,,19,19,100,python
+A00948844,A00948844,Schmeisser,Lee,,,19,19,100,python
+A01255181,A01255181,Scott,Nicholas,,,19,19,100,python
+A01186114,A01186114,Sun,Kewei,,,18,18,94.74,python
+A01058341,A01058341,Virk,Gurpratap,,,14.67,14.67,77.21,python
+A01259742,A01259742,Wang,Jimmy ,,,19,19,100,python
+A01191808,A01191808,Weir,Alexander,,,19,19,100,python
+A01268383,A01268383,Wyse,Kale,,,11.5,11.5,60.53,python
+SET NAME,,,,,,LabReport02,summary,%score,python
+PROB NUMBER,,,,,,,,,python
+CLOSE DATE,,,,,,,,,python
+CLOSE TIME,,,,,,,,,python
+PROB VALUE,,,,,,19,19,100,python
+STUDENT ID,login ID,LAST NAME,FIRST NAME,SECTION,RECITATION,total,,,python
+A01256902,A01256902,Adam,Bryce,,,18,18,94.74,python
+bcit_admin,bcit_admin,Administrator,,,,0,0,0,python
+A01006494,A01006494,Akhgarzhand,Kaveh,,,18,18,94.74,python
+A01272941,A01272941,Ariss,Jasmine,,,19,19,100,python
+A01282057,A01282057,Arnold,Spencer,,,19,19,100,python
+A01295865,A01295865,Chau,Johnathan,,,11.67,11.67,61.42,python
+A01281182,A01281182,Dougall,Ryan,,,16,16,84.21,python
+A01226824,A01226824,Gill,Vikram,,,19,19,100,python
+A01159131,A01159131,Hacioglu,Irfan,,,18.5,18.5,97.37,python
+A01281200,A01281200,Hung,Bailey,,,19,19,100,python
+A01030381,A01030381,Hyra-Woodman,Conor,,,19,19,100,python
+A01248771,A01248771,Islam,Hassan,,,19,19,100,python
+A00940835,A00940835,Lin,Derek,,,19,19,100,python
+A00746035,A00746035,Linforth,Braedon,,,19,19,100,python
+A01010078,A01010078,Lukits,Stefan,,,0,0,0,python
+A01217376,A01217376,MiraAcosta,Jonathan,,,19,19,100,python
+A01248193,A01248193,Moy,Russell,,,19,19,100,python
+A01276339,A01276339,Nguyen,Tony,,,18.56,18.56,97.68,python
+A01280488,A01280488,Olfert,Riley,,,19,19,100,python
+A01073920,A01073920,Pinette,Brennan,,,18,18,94.74,python
+A01178066,A01178066,Posnikoff,Nicholas,,,19,19,100,python
+A01268816,A01268816,Prabhu,Vrishank,,,5,5,26.32,python
+A01298718,A01298718,Reid,Bryce,,,19,19,100,python
+A00913638,A00913638,Sarabia,Federico,,,19,19,100,python
+A01258024,A01258024,Sasaki,Kento,,,19,19,100,python
+A00948844,A00948844,Schmeisser,Lee,,,19,19,100,python
+A01255181,A01255181,Scott,Nicholas,,,19,19,100,python
+A01186114,A01186114,Sun,Kewei,,,18.56,18.56,97.68,python
+A01058341,A01058341,Virk,Gurpratap,,,12,12,63.16,python
+A01259742,A01259742,Wang,Jimmy ,,,19,19,100,python
+A01191808,A01191808,Weir,Alexander,,,19,19,100,python
+A01268383,A01268383,Wyse,Kale,,,18,18,94.74,python
+SET NAME,,,,,,LabReport10,summary,%score,python
+PROB NUMBER,,,,,,,,,python
+CLOSE DATE,,,,,,,,,python
+CLOSE TIME,,,,,,,,,python
+PROB VALUE,,,,,,11,11,100,python
+STUDENT ID,login ID,LAST NAME,FIRST NAME,SECTION,RECITATION,total,,,python
+A01256902,A01256902,Adam,Bryce,,,11,11,100,python
+bcit_admin,bcit_admin,Administrator,,,,0,0,0,python
+A01006494,A01006494,Akhgarzhand,Kaveh,,,11,11,100,python
+A01272941,A01272941,Ariss,Jasmine,,,11,11,100,python
+A01282057,A01282057,Arnold,Spencer,,,11,11,100,python
+A01295865,A01295865,Chau,Johnathan,,,7.5,7.5,68.18,python
+A01281182,A01281182,Dougall,Ryan,,,11,11,100,python
+A01226824,A01226824,Gill,Vikram,,,11,11,100,python
+A01159131,A01159131,Hacioglu,Irfan,,,11,11,100,python
+A01281200,A01281200,Hung,Bailey,,,10.5,10.5,95.45,python
+A01030381,A01030381,Hyra-Woodman,Conor,,,11,11,100,python
+A01248771,A01248771,Islam,Hassan,,,11,11,100,python
+A00940835,A00940835,Lin,Derek,,,11,11,100,python
+A00746035,A00746035,Linforth,Braedon,,,11,11,100,python
+A01010078,A01010078,Lukits,Stefan,,,0,0,0,python
+A01217376,A01217376,MiraAcosta,Jonathan,,,11,11,100,python
+A01248193,A01248193,Moy,Russell,,,11,11,100,python
+A01276339,A01276339,Nguyen,Tony,,,11,11,100,python
+A01280488,A01280488,Olfert,Riley,,,11,11,100,python
+A01073920,A01073920,Pinette,Brennan,,,11,11,100,python
+A01178066,A01178066,Posnikoff,Nicholas,,,11,11,100,python
+A01268816,A01268816,Prabhu,Vrishank,,,10.5,10.5,95.45,python
+A01298718,A01298718,Reid,Bryce,,,11,11,100,python
+A00913638,A00913638,Sarabia,Federico,,,11,11,100,python
+A01258024,A01258024,Sasaki,Kento,,,11,11,100,python
+A00948844,A00948844,Schmeisser,Lee,,,10.5,10.5,95.45,python
+A01255181,A01255181,Scott,Nicholas,,,11,11,100,python
+A01186114,A01186114,Sun,Kewei,,,0,0,0,python
+A01058341,A01058341,Virk,Gurpratap,,,10,10,90.91,python
+A01259742,A01259742,Wang,Jimmy ,,,10.5,10.5,95.45,python
+A01191808,A01191808,Weir,Alexander,,,11,11,100,python
+A01268383,A01268383,Wyse,Kale,,,2,2,18.18,python
+SET NAME,,,,,,LabReport01,summary,%score,python
+PROB NUMBER,,,,,,,,,python
+CLOSE DATE,,,,,,,,,python
+CLOSE TIME,,,,,,,,,python
+PROB VALUE,,,,,,30,30,100,python
+STUDENT ID,login ID,LAST NAME,FIRST NAME,SECTION,RECITATION,total,,,python
+A01256902,A01256902,Adam,Bryce,,,29.33,29.33,97.77,python
+bcit_admin,bcit_admin,Administrator,,,,0,0,0,python
+A01006494,A01006494,Akhgarzhand,Kaveh,,,26,26,86.67,python
+A01272941,A01272941,Ariss,Jasmine,,,29,29,96.67,python
+A01282057,A01282057,Arnold,Spencer,,,30,30,100,python
+A01295865,A01295865,Chau,Johnathan,,,25,25,83.33,python
+A01281182,A01281182,Dougall,Ryan,,,28,28,93.33,python
+A01226824,A01226824,Gill,Vikram,,,30,30,100,python
+A01159131,A01159131,Hacioglu,Irfan,,,28.5,28.5,95,python
+A01281200,A01281200,Hung,Bailey,,,30,30,100,python
+A01030381,A01030381,Hyra-Woodman,Conor,,,30,30,100,python
+A01248771,A01248771,Islam,Hassan,,,30,30,100,python
+A00940835,A00940835,Lin,Derek,,,30,30,100,python
+A00746035,A00746035,Linforth,Braedon,,,30,30,100,python
+A01010078,A01010078,Lukits,Stefan,,,0,0,0,python
+A01217376,A01217376,MiraAcosta,Jonathan,,,28,28,93.33,python
+A01248193,A01248193,Moy,Russell,,,30,30,100,python
+A01276339,A01276339,Nguyen,Tony,,,30,30,100,python
+A01280488,A01280488,Olfert,Riley,,,30,30,100,python
+A01073920,A01073920,Pinette,Brennan,,,30,30,100,python
+A01178066,A01178066,Posnikoff,Nicholas,,,30,30,100,python
+A01268816,A01268816,Prabhu,Vrishank,,,13,13,43.33,python
+A01298718,A01298718,Reid,Bryce,,,30,30,100,python
+A00913638,A00913638,Sarabia,Federico,,,30,30,100,python
+A01258024,A01258024,Sasaki,Kento,,,30,30,100,python
+A00948844,A00948844,Schmeisser,Lee,,,29.33,29.33,97.77,python
+A01255181,A01255181,Scott,Nicholas,,,30,30,100,python
+A01186114,A01186114,Sun,Kewei,,,29,29,96.67,python
+A01058341,A01058341,Virk,Gurpratap,,,25,25,83.33,python
+A01259742,A01259742,Wang,Jimmy ,,,30,30,100,python
+A01191808,A01191808,Weir,Alexander,,,29.67,29.67,98.9,python
+A01268383,A01268383,Wyse,Kale,,,27,27,90,python
+SET NAME,,,,,,LabReport06,summary,%score,python
+PROB NUMBER,,,,,,,,,python
+CLOSE DATE,,,,,,,,,python
+CLOSE TIME,,,,,,,,,python
+PROB VALUE,,,,,,12,12,100,python
+STUDENT ID,login ID,LAST NAME,FIRST NAME,SECTION,RECITATION,total,,,python
+A01256902,A01256902,Adam,Bryce,,,12,12,100,python
+bcit_admin,bcit_admin,Administrator,,,,0,0,0,python
+A01006494,A01006494,Akhgarzhand,Kaveh,,,12,12,100,python
+A01272941,A01272941,Ariss,Jasmine,,,12,12,100,python
+A01282057,A01282057,Arnold,Spencer,,,12,12,100,python
+A01295865,A01295865,Chau,Johnathan,,,8.33,8.33,69.42,python
+A01281182,A01281182,Dougall,Ryan,,,12,12,100,python
+A01226824,A01226824,Gill,Vikram,,,12,12,100,python
+A01159131,A01159131,Hacioglu,Irfan,,,11,11,91.67,python
+A01281200,A01281200,Hung,Bailey,,,12,12,100,python
+A01030381,A01030381,Hyra-Woodman,Conor,,,11,11,91.67,python
+A01248771,A01248771,Islam,Hassan,,,12,12,100,python
+A00940835,A00940835,Lin,Derek,,,10.5,10.5,87.5,python
+A00746035,A00746035,Linforth,Braedon,,,12,12,100,python
+A01010078,A01010078,Lukits,Stefan,,,0,0,0,python
+A01217376,A01217376,MiraAcosta,Jonathan,,,7,7,58.33,python
+A01248193,A01248193,Moy,Russell,,,11,11,91.67,python
+A01276339,A01276339,Nguyen,Tony,,,12,12,100,python
+A01280488,A01280488,Olfert,Riley,,,12,12,100,python
+A01073920,A01073920,Pinette,Brennan,,,10,10,83.33,python
+A01178066,A01178066,Posnikoff,Nicholas,,,12,12,100,python
+A01268816,A01268816,Prabhu,Vrishank,,,12,12,100,python
+A01298718,A01298718,Reid,Bryce,,,12,12,100,python
+A00913638,A00913638,Sarabia,Federico,,,12,12,100,python
+A01258024,A01258024,Sasaki,Kento,,,12,12,100,python
+A00948844,A00948844,Schmeisser,Lee,,,12,12,100,python
+A01255181,A01255181,Scott,Nicholas,,,12,12,100,python
+A01186114,A01186114,Sun,Kewei,,,11,11,91.67,python
+A01058341,A01058341,Virk,Gurpratap,,,12,12,100,python
+A01259742,A01259742,Wang,Jimmy ,,,12,12,100,python
+A01191808,A01191808,Weir,Alexander,,,12,12,100,python
+A01268383,A01268383,Wyse,Kale,,,8,8,66.67,python
+SET NAME,,,,,,LabReport08,summary,%score,python
+PROB NUMBER,,,,,,,,,python
+CLOSE DATE,,,,,,,,,python
+CLOSE TIME,,,,,,,,,python
+PROB VALUE,,,,,,9,9,100,python
+STUDENT ID,login ID,LAST NAME,FIRST NAME,SECTION,RECITATION,total,,,python
+A01256902,A01256902,Adam,Bryce,,,9,9,100,python
+bcit_admin,bcit_admin,Administrator,,,,0,0,0,python
+A01006494,A01006494,Akhgarzhand,Kaveh,,,9,9,100,python
+A01272941,A01272941,Ariss,Jasmine,,,9,9,100,python
+A01282057,A01282057,Arnold,Spencer,,,9,9,100,python
+A01295865,A01295865,Chau,Johnathan,,,9,9,100,python
+A01281182,A01281182,Dougall,Ryan,,,9,9,100,python
+A01226824,A01226824,Gill,Vikram,,,8,8,88.89,python
+A01159131,A01159131,Hacioglu,Irfan,,,9,9,100,python
+A01281200,A01281200,Hung,Bailey,,,9,9,100,python
+A01030381,A01030381,Hyra-Woodman,Conor,,,9,9,100,python
+A01248771,A01248771,Islam,Hassan,,,9,9,100,python
+A00940835,A00940835,Lin,Derek,,,9,9,100,python
+A00746035,A00746035,Linforth,Braedon,,,9,9,100,python
+A01010078,A01010078,Lukits,Stefan,,,0,0,0,python
+A01217376,A01217376,MiraAcosta,Jonathan,,,8,8,88.89,python
+A01248193,A01248193,Moy,Russell,,,9,9,100,python
+A01276339,A01276339,Nguyen,Tony,,,9,9,100,python
+A01280488,A01280488,Olfert,Riley,,,9,9,100,python
+A01073920,A01073920,Pinette,Brennan,,,7,7,77.78,python
+A01178066,A01178066,Posnikoff,Nicholas,,,9,9,100,python
+A01268816,A01268816,Prabhu,Vrishank,,,9,9,100,python
+A01298718,A01298718,Reid,Bryce,,,9,9,100,python
+A00913638,A00913638,Sarabia,Federico,,,9,9,100,python
+A01258024,A01258024,Sasaki,Kento,,,9,9,100,python
+A00948844,A00948844,Schmeisser,Lee,,,9,9,100,python
+A01255181,A01255181,Scott,Nicholas,,,9,9,100,python
+A01186114,A01186114,Sun,Kewei,,,0,0,0,python
+A01058341,A01058341,Virk,Gurpratap,,,9,9,100,python
+A01259742,A01259742,Wang,Jimmy ,,,9,9,100,python
+A01191808,A01191808,Weir,Alexander,,,9,9,100,python
+A01268383,A01268383,Wyse,Kale,,,8.89,8.89,98.78,python
+SET NAME,,,,,,LabReport11,summary,%score,python
+PROB NUMBER,,,,,,,,,python
+CLOSE DATE,,,,,,,,,python
+CLOSE TIME,,,,,,,,,python
+PROB VALUE,,,,,,11,11,100,python
+STUDENT ID,login ID,LAST NAME,FIRST NAME,SECTION,RECITATION,total,,,python
+A01256902,A01256902,Adam,Bryce,,,11,11,100,python
+bcit_admin,bcit_admin,Administrator,,,,0,0,0,python
+A01006494,A01006494,Akhgarzhand,Kaveh,,,11,11,100,python
+A01272941,A01272941,Ariss,Jasmine,,,11,11,100,python
+A01282057,A01282057,Arnold,Spencer,,,11,11,100,python
+A01295865,A01295865,Chau,Johnathan,,,10.33,10.33,93.91,python
+A01281182,A01281182,Dougall,Ryan,,,11,11,100,python
+A01226824,A01226824,Gill,Vikram,,,11,11,100,python
+A01159131,A01159131,Hacioglu,Irfan,,,11,11,100,python
+A01281200,A01281200,Hung,Bailey,,,11,11,100,python
+A01030381,A01030381,Hyra-Woodman,Conor,,,11,11,100,python
+A01248771,A01248771,Islam,Hassan,,,11,11,100,python
+A00940835,A00940835,Lin,Derek,,,11,11,100,python
+A00746035,A00746035,Linforth,Braedon,,,3,3,27.27,python
+A01010078,A01010078,Lukits,Stefan,,,0,0,0,python
+A01217376,A01217376,MiraAcosta,Jonathan,,,10,10,90.91,python
+A01248193,A01248193,Moy,Russell,,,11,11,100,python
+A01276339,A01276339,Nguyen,Tony,,,11,11,100,python
+A01280488,A01280488,Olfert,Riley,,,11,11,100,python
+A01073920,A01073920,Pinette,Brennan,,,10.8,10.8,98.18,python
+A01178066,A01178066,Posnikoff,Nicholas,,,11,11,100,python
+A01268816,A01268816,Prabhu,Vrishank,,,11,11,100,python
+A01298718,A01298718,Reid,Bryce,,,11,11,100,python
+A00913638,A00913638,Sarabia,Federico,,,11,11,100,python
+A01258024,A01258024,Sasaki,Kento,,,11,11,100,python
+A00948844,A00948844,Schmeisser,Lee,,,11,11,100,python
+A01255181,A01255181,Scott,Nicholas,,,11,11,100,python
+A01186114,A01186114,Sun,Kewei,,,0,0,0,python
+A01058341,A01058341,Virk,Gurpratap,,,9.27,9.27,84.27,python
+A01259742,A01259742,Wang,Jimmy ,,,11,11,100,python
+A01191808,A01191808,Weir,Alexander,,,11,11,100,python
+A01268383,A01268383,Wyse,Kale,,,8.33,8.33,75.73,python
+SET NAME,,,,,,LabReport09,summary,%score,python
+PROB NUMBER,,,,,,,,,python
+CLOSE DATE,,,,,,,,,python
+CLOSE TIME,,,,,,,,,python
+PROB VALUE,,,,,,19,19,100,python
+STUDENT ID,login ID,LAST NAME,FIRST NAME,SECTION,RECITATION,total,,,python
+A01256902,A01256902,Adam,Bryce,,,18,18,94.74,python
+bcit_admin,bcit_admin,Administrator,,,,0,0,0,python
+A01006494,A01006494,Akhgarzhand,Kaveh,,,18,18,94.74,python
+A01272941,A01272941,Ariss,Jasmine,,,14.88,14.88,78.32,python
+A01282057,A01282057,Arnold,Spencer,,,19,19,100,python
+A01295865,A01295865,Chau,Johnathan,,,9.88,9.88,52,python
+A01281182,A01281182,Dougall,Ryan,,,18.13,18.13,95.42,python
+A01226824,A01226824,Gill,Vikram,,,19,19,100,python
+A01159131,A01159131,Hacioglu,Irfan,,,16.88,16.88,88.84,python
+A01281200,A01281200,Hung,Bailey,,,17.75,17.75,93.42,python
+A01030381,A01030381,Hyra-Woodman,Conor,,,19,19,100,python
+A01248771,A01248771,Islam,Hassan,,,19,19,100,python
+A00940835,A00940835,Lin,Derek,,,18.13,18.13,95.42,python
+A00746035,A00746035,Linforth,Braedon,,,19,19,100,python
+A01010078,A01010078,Lukits,Stefan,,,0,0,0,python
+A01217376,A01217376,MiraAcosta,Jonathan,,,11.88,11.88,62.53,python
+A01248193,A01248193,Moy,Russell,,,18.13,18.13,95.42,python
+A01276339,A01276339,Nguyen,Tony,,,17.25,17.25,90.79,python
+A01280488,A01280488,Olfert,Riley,,,19,19,100,python
+A01073920,A01073920,Pinette,Brennan,,,1.63,1.63,8.58,python
+A01178066,A01178066,Posnikoff,Nicholas,,,18.88,18.88,99.37,python
+A01268816,A01268816,Prabhu,Vrishank,,,0,0,0,python
+A01298718,A01298718,Reid,Bryce,,,18,18,94.74,python
+A00913638,A00913638,Sarabia,Federico,,,19,19,100,python
+A01258024,A01258024,Sasaki,Kento,,,19,19,100,python
+A00948844,A00948844,Schmeisser,Lee,,,18.75,18.75,98.68,python
+A01255181,A01255181,Scott,Nicholas,,,19,19,100,python
+A01186114,A01186114,Sun,Kewei,,,0,0,0,python
+A01058341,A01058341,Virk,Gurpratap,,,18,18,94.74,python
+A01259742,A01259742,Wang,Jimmy ,,,19,19,100,python
+A01191808,A01191808,Weir,Alexander,,,18.88,18.88,99.37,python
+A01268383,A01268383,Wyse,Kale,,,0,0,0,python
+SET NAME,,,,,,LabReport07,summary,%score,python
+PROB NUMBER,,,,,,,,,python
+CLOSE DATE,,,,,,,,,python
+CLOSE TIME,,,,,,,,,python
+PROB VALUE,,,,,,15,15,100,python
+STUDENT ID,login ID,LAST NAME,FIRST NAME,SECTION,RECITATION,total,,,python
+A01256902,A01256902,Adam,Bryce,,,15,15,100,python
+bcit_admin,bcit_admin,Administrator,,,,0,0,0,python
+A01006494,A01006494,Akhgarzhand,Kaveh,,,14.75,14.75,98.33,python
+A01272941,A01272941,Ariss,Jasmine,,,14.5,14.5,96.67,python
+A01282057,A01282057,Arnold,Spencer,,,15,15,100,python
+A01295865,A01295865,Chau,Johnathan,,,15,15,100,python
+A01281182,A01281182,Dougall,Ryan,,,15,15,100,python
+A01226824,A01226824,Gill,Vikram,,,15,15,100,python
+A01159131,A01159131,Hacioglu,Irfan,,,14.5,14.5,96.67,python
+A01281200,A01281200,Hung,Bailey,,,15,15,100,python
+A01030381,A01030381,Hyra-Woodman,Conor,,,15,15,100,python
+A01248771,A01248771,Islam,Hassan,,,15,15,100,python
+A00940835,A00940835,Lin,Derek,,,15,15,100,python
+A00746035,A00746035,Linforth,Braedon,,,15,15,100,python
+A01010078,A01010078,Lukits,Stefan,,,0,0,0,python
+A01217376,A01217376,MiraAcosta,Jonathan,,,14,14,93.33,python
+A01248193,A01248193,Moy,Russell,,,15,15,100,python
+A01276339,A01276339,Nguyen,Tony,,,15,15,100,python
+A01280488,A01280488,Olfert,Riley,,,15,15,100,python
+A01073920,A01073920,Pinette,Brennan,,,12.94,12.94,86.27,python
+A01178066,A01178066,Posnikoff,Nicholas,,,15,15,100,python
+A01268816,A01268816,Prabhu,Vrishank,,,13,13,86.67,python
+A01298718,A01298718,Reid,Bryce,,,15,15,100,python
+A00913638,A00913638,Sarabia,Federico,,,15,15,100,python
+A01258024,A01258024,Sasaki,Kento,,,15,15,100,python
+A00948844,A00948844,Schmeisser,Lee,,,15,15,100,python
+A01255181,A01255181,Scott,Nicholas,,,15,15,100,python
+A01186114,A01186114,Sun,Kewei,,,14,14,93.33,python
+A01058341,A01058341,Virk,Gurpratap,,,14.88,14.88,99.2,python
+A01259742,A01259742,Wang,Jimmy ,,,15,15,100,python
+A01191808,A01191808,Weir,Alexander,,,15,15,100,python
+A01268383,A01268383,Wyse,Kale,,,6.63,6.63,44.2,python

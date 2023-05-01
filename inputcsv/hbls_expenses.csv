@@ -1,0 +1,414 @@
+projectID,ClaimedTaxes,pmtdate,ReceiptFilename,provider,service,amount,pmtmeth
+lish,0,2011-08-08,,City of Vancouver,microfilm,66.40,PC MC
+lish,0,2011-10-07,,Stefan Brunhoff,architect,1355.20,PC cheque
+lish,0,2012-01-03,,Stefan Brunhoff,architect,523.60,PC cheque
+lish,1,2012-01-09,,City of Vancouver,transfer station,19.00,PC MC
+lish,1,2012-01-09,,Home Depot,supplies,35.53,TD cheque 004 for 1886.92
+lish,1,2012-01-10,,Rona,supplies,21.39,TD cheque 004 for 1886.92
+lish,0,2012-01-12,,Concrete Cutters,concrete cutting,1400.00,cash
+lish,1,2012-01-14,,Charles McRobbie,gas for truck,40.00,cash
+lish,1,2012-01-14,,Charles McRobbie,labour,1830.00,TD cheque 004x for 1886.92
+lish,1,2012-01-14,,Waste Away,cement disposal,44.80,Oxfam visa
+lish,1,2012-01-17,,Harmony Shire,compensation,250.00,PC cheque
+lish,1,2012-01-17,,Jill Meredith,compensation,50.00,PC cheque
+lish,1,2012-01-17,,Lindsey Fournier,compensation,100.00,PC cheque
+lish,1,2012-01-20,,A and B Tool Rentals,tools,29.96,Canadian Tire Mastercard
+lish,1,2012-01-20,,A and B Tool Rentals,tools,64.71,Canadian Tire Mastercard
+lish,1,2012-01-20,,Charles McRobbie,labour,1950.00,TD cheque 005x for 2458.00
+lish,1,2012-01-20,,House Whisperers,energy evaluation,170.00,TD cheque 005 for 2458.00
+lish,1,2012-01-20,,Labourer,labour,300.00,TD cheque 005 for 2458.00
+lish,1,2012-01-20,,Unknown,crushed stone,38.00,TD cheque 005 for 2458.00
+lish,1,2012-01-22,,City of Vancouver,transfer station,21.00,PC MC
+lish,1,2012-01-24,,A and B Tool Rentals,tools,340.35,Canadian Tire Mastercard
+lish,0,2012-01-25,,G2 Mechanical Ltd,plumbing,1944.53,TD cheque 007x
+lish,0,2012-01-27,,Charles McRobbie,labour,1950.00,TD cheque 006x
+lish,1,2012-01-27,,Home Depot,supplies,281.28,PC MC
+lish,0,2012-01-27,,Stefan Brunhoff,architect,2371.60,TD cheque 009x
+lish,0,2012-01-30,,Universal Supply Co. Inc.,plumbing supplies,335.77,PC MC
+lish,0,2012-01-31,,Jiffy John Rentals,portable toilet,128.96,TD cheque 010x
+lish,0,2012-01-31,,Twin Creeks Enterprise,furnace etc.,3240.00,cash
+lish,0,2012-01-31,,Twin Creeks Enterprise,furnace etc.,6886.88,TD cheque 012x
+lish,1,2012-02-01,,A and B Tool Rentals,tools,65.91,Canadian Tire Mastercard
+lish,1,2012-02-01,,Kari Bergrud,cleaning fee,75.00,PC cheque
+lish,0,2012-02-03,,A and B Tool Rentals,tools,62.72,Canadian Tire Mastercard
+lish,1,2012-02-03,,A and B Tool Rentals,tools,62.72,Canadian Tire Mastercard
+lish,0,2012-02-03,,Charles McRobbie,labour,2520.00,TD cheque 008x
+lish,0,2012-02-03,,West Coast Windows,windows,2592.48,PC MC
+lish,1,2012-02-07,,Rona,supplies,513.78,PC cheque 374
+lish,0,2012-02-08,,A and B Tool Rentals,tools,98.27,Canadian Tire Mastercard
+lish,0,2012-02-10,,A and B Tool Rentals,tools,69.51,Canadian Tire Mastercard
+lish,0,2012-02-10,,Charles McRobbie,labour,2550.00,TD cheque 014x
+lish,0,2012-02-12,,Universal Supply Co. Inc.,plumbing supplies,100.80,PC MC (total bill 380.80)
+lish,0,2012-02-13,,A and B Tool Rentals,tools,55.13,Canadian Tire Mastercard
+lish,0,2012-02-13,,Rona,supplies,835.81,TD cheque 013x
+lish,0,2012-02-14,,Universal Supply Co. Inc.,plumbing supplies,147.84,PC MC
+lish,0,2012-02-15,,A and B Tool Rentals,tools,29.96,Canadian Tire Mastercard
+lish,0,2012-02-15,,Harmony Shire,compensation,250.00,PC cheque
+lish,0,2012-02-15,,Jill Meredith,compensation,50.00,PC cheque
+lish,0,2012-02-15,,Lindsey Fournier,compensation,100.00,PC cheque
+lish,0,2012-02-17,,Charles McRobbie,labour,2520.00,TD cheque 015x
+lish,0,2012-02-17,,Walters Custom Woodworking Ltd.,kitchen cabinets,2000.00,deposit TD cheque 016x
+lish,0,2012-02-20,,G2 Mechanical Ltd,plumbing,2981.43,TD cheque 017x
+lish,0,2012-02-24,,Charles McRobbie,labour,2400.00,TD cheque 018x
+lish,0,2012-02-29,,Metrotown Electric Ltd.,electrical,4082.40,TD cheque 019x
+lish,0,2012-03-01,,Harmony Shire,rental loss,875.00,cash
+lish,0,2012-03-02,,Charles McRobbie,labour,2250.00,TD cheque 020x
+lish,0,2012-03-07,,floor leveling,floor leveling,2000.00,cash
+lish,0,2012-03-07,,Jiffy John Rentals,portable toilet,140.40,TD cheque 023 originally but told them not to cash then PC MC
+lish,0,2012-03-07,,Oscar,concrete work,2000.00,cash given to Charles
+lish,0,2012-03-09,,Charles McRobbie,labour,2340.00,TD cheque 024x for 2367.53
+lish,1,2012-03-09,,Rona,supplies,27.53,TD cheque 024x for 2367.53
+lish,0,2012-03-12,,Twin Creeks Enterprise,furnace etc.,2450.00,cash
+lish,0,2012-03-16,,Charles McRobbie,labour,2220.00,PC cheque 406x
+lish,1,2012-03-16,,concrete removal,concrete removal,400.00,cash
+lish,0,2012-03-16,,floor leveling,floor leveling,285.00,cash
+lish,0,2012-03-16,,insulation,insulation,2800.00,cash
+lish,0,2012-03-20,,Jill Meredith,compensation,25.00,PC cheque 407x
+lish,0,2012-03-20,,Kari Bergrud,compensation,62.50,PC cheque 409x
+lish,0,2012-03-20,,Lindsey Fournier,compensation,50.00,PC cheque 408x
+lish,1,2012-03-20,,tbd,Martech,532.00,Sherrys PC cheque 253
+lish,1,2012-03-23,,Charles McRobbie,labour,2550.00,PC cheque 411x for 2678.46
+lish,0,2012-03-23,,drywall,Bob,2250.00,cash for Charles ($50 on cheque 413x)
+lish,0,2012-03-23,,gas hookup for stove,Sam,200.00,cash for Charles
+lish,1,2012-03-23,,Rona,supplies,1018.37,PC bill pay
+lish,0,2012-03-23,,various,supplies,128.46,see back of Charles receipt
+lish,0,2012-03-27,,flooring,Casa Madera Hardwood Floors Inc.,3734.53,1/2 deposit PC cheque 414x
+lish,0,2012-03-29,,countertop,Houstone Enterprises,1310.40,1/2 deposit PC MC
+lish,1,2012-03-30,,A and B Tool Rentals,tools,48.76,Canadian Tire Mastercard
+lish,1,2012-03-30,,Charles McRobbie,labour,2520.00,PC cheque 415x for 3000.00
+lish,0,2012-03-30,,New West Gypsom Recycling,sheetrock disposal,40.00,PC cheque 415x for 3000.00
+lish,1,2012-03-30,,transfer station,garbage disposal,20.00,PC cheque 415x for 3000.00
+lish,1,2012-03-30,,Wei Li,painting,420.00,PC cheque 415x for 3000.00
+lish,1,2012-04-04,,Charles McRobbie,labour,1890.00,PC cheque 421x for 3000.00
+lish,1,2012-04-04,,United Vinyl Sundecks Ltd.,sundeck,914.48,PC cheque 420x
+lish,1,2012-04-05,,A and B Tool Rentals,tools,65.92,Canadian Tire Mastercard
+lish,1,2012-04-05,,A and B Tool Rentals,tools,89.60,Canadian Tire Mastercard
+lish,0,2012-04-13,,Bob,drywall,2000.00,cash
+lish,1,2012-04-13,,Jiffy John Rentals,portable toilet,140.40,PC MC
+lish,0,2012-04-18,,G2 Mechanical Ltd,plumbing,194.61,PC cheque 422
+lish,1,2012-04-23,,Rona,supplies,2783.46,PC bill pay
+lish,1,2012-04-27,,Charles McRobbie,labour,3420.00,TD cheque 001 for 3692.49
+lish,1,2012-04-27,,garbage disposal,transfer station,34.00,TD cheque 002 for 3692.49
+lish,0,2012-04-27,,Metrotown Electric Ltd.,electrical,9928.80,TD cheque 001
+lish,1,2012-04-27,,roof supplies,RoofMart,238.49,TD cheque 001 for 3692.49
+lish,1,2012-05-04,,Charles McRobbie,labour,1800.00,TD cheque 026 for 1844.45 cheque bounced
+lish,1,2012-05-04,,Dunbar Lumber,lumber,44.45,TD cheque 026 for 1844.45 cheque bounced
+lish,1,2012-05-11,,Charles McRobbie,labour,1890.00,TD cheque 027x
+lish,1,2012-05-17,,A and B Tool Rentals,tools,154.56,Canadian Tire Mastercard
+lish,1,2012-05-17,,A and B Tool Rentals,tools,26.88,Canadian Tire Mastercard
+lish,1,2012-05-17,,A and B Tool Rentals,tools,443.52,Canadian Tire Mastercard
+lish,1,2012-05-17,,Jeff and Alexis,utilities,25.00,reimbursed
+lish,1,2012-05-17,,Terry and Jen,utilities,25.00,reimbursed
+lish,1,2012-05-18,,Charles McRobbie,labour,1950.00,TD cheque 030 for 2108.66
+lish,1,2012-05-18,,miscellaneous expenses for Charles,miscellaneous,158.66,TD cheque 030 for 2108.66
+lish,1,2012-06-04,,Jiffy John Rentals,portable toilet,264.65,PC MC
+lish,1,2012-06-13,,Rona,supplies,294.99,TD bill pay
+lish,0,2012-06-13,,Stefan Brunhoff,architect,10348.80,TD cheque 035
+lish,0,2012-06-14,,House Whisperers,energy evaluation,168.00,TD cheque 036
+lish,0,2012-07-05,,Walters Custom Woodworking Ltd.,kitchen cabinets,4500.00,TD cheque 042
+aeva,0,2012-08-08,,Stefan Brunhoff,architect,6183.74,TD cheque 043
+aeva,0,2013-10-10,,Ken W Wong and Associates,statutory right of way,420.00,TD cheque 115
+aeva,1,2013-10-10,,Ken W Wong and Associates,statutory right of way,420.00,TD cheque 115
+aeva,0,2013-10-11,,Stefan Brunhoff,architect,2541.00,TD cheque 114
+aeva,0,2013-10-11,,TR Trades,blueprints,95.29,TD cheque 114
+aeva,1,2013-11-10,,Stefan Brunhoff,architect,2541.00,TD cheque 114
+aeva,1,2013-11-10,,TR Trades,blueprints,95.29,TD cheque 114
+aeva,0,2014-02-13,,Vancouver General Contractors,design contract,4200.00,TD cheque
+aeva,0,2014-03-11,,Stefan Brunhoff,architect,895.13,TD cheque 220
+aeva,0,2014-08-12,,Vancouver Landfill,garbage disposal,53.00,TD VISA
+aeva,0,2015-01-26,,689006 B.C. Ltd,Protection Engineering code consultant,2500.00,TD cheque 234
+aeva,0,2015-03-18,,City of Vancouver,Alternative Solutions Application,1100.00,tdcc
+aeva,0,2015-03-27,,689006 B.C. Ltd,Protection Engineering code consultant,2266.58,TD cheque 254
+aeva,0,2015-04-24,,689006 B.C. Ltd,Protection Engineering code consultant,1640.19,TD cheque 158
+aeva,0,2016-05-10,,689006 B.C. Ltd,Protection Engineering code consultant invoice 3886,669.38,TD cheque 341
+aeva,0,2016-06-15,,689006 B.C. Ltd,Protection Engineering code consultant invoice 3886,518.95,TD cheque 338
+aeva,0,2016-08-03,,689006 B.C. Ltd,Protection Engineering code consultant invoices 3846 and 3847,5066.69,TD cheque 387
+aeva,0,2016-09-03,,Stefan Brunhoff,architect,2911.83,TD cheque 388
+aeva,0,2016-10-27,,Mountain Maple,arborist report,449.40,EMT
+aeva,0,2017-04-28,,City of Vancouver,Development Permit Fee,663.00,TD Visa
+aeva,1,2017-05-09,,Michael Hicks,Invoice 2017-19 (530),2807.16,EMT
+aeva,0,2017-06-15,,City of Vancouver,Street Use Permit Fee,2026.94,TD Visa
+aeva,0,2017-06-21,,City of Vancouver,Building Without Permit Fee,895.50,TD Visa
+aeva,0,2018-01-19,,City of Vancouver Engineering,sewer and water connection permit,7346.00,TD Visa
+aeva,0,2018-01-21,,Eric Man KSM,Structural Engineering Services,3130.00,TD etransfer
+aeva,0,2018-01-31,,Michael Hicks,Invoice 2018-3 (538),5000.00,cheque 069
+aeva,0,2018-02-22,,Sona Drainage and Sewers,backyard work for parking pad,2100.00,cheque 032
+ielo,0,2018-04-03,,Stefan Brunhoff,architect,942.85,TD emt
+aeva,1,2018-04-07,,Precision Restoration,remediation after leak,1000.00,TD Visa
+aeva,1,2018-05-01,,Civic Legal,legal fees,1054.49,emt to Hanna El Rayess
+aeva,0,2018-05-01,,Trades Reproduction,copies of permits,68.09,TD Visa
+aeva,1,2018-06-07,,Adlaw Appraisal,appraisal fee for line of credit,420.00,TD Visa
+aeva,1,2018-06-08,,Civic Legal,legal fees,1013.05,emt to Hanna El Rayess
+aeva,0,2018-06-22,,Michael Hicks,Invoice 2018-27 (543) 1 of 4,2956.24,EMT CAPZYSnA
+aeva,1,2018-06-22,,Michael Hicks,Invoice 2018-27 (543),11956.24,cheque TBA
+aeva,0,2018-07-07,,Jerome Klett,asbestos abatement deposit,3000.00,EMT CA***nQd
+aeva,0,2018-07-09,,Michael Hicks,Invoice 2018-27 (543) 2 of 4,3000.00,EMT CAYZMtSV
+aeva,0,2018-07-10,,Jerome Klett,asbestos abatement deposit,1000.00,EMT CA***5Jk
+aeva,0,2018-07-13,,Michael Hicks,Invoice 2018-27 (543) 3 of 4,3000.00,EMT CAKCgfeN
+aeva,0,2018-07-16,,Jerome Klett,asbestos abatement deposit,3000.00,EMT CA***JUB
+aeva,0,2018-07-17,,Jerome Klett,asbestos abatement deposit,2000.00,EMT CA***mth
+aeva,0,2018-07-23,,4Ws Demo Ltd,asbestos abatement deposit,17880.00,BlueShore cheque 2
+aeva,0,2018-07-23,,Michael Hicks,prepayment,50000.00,BlueShore cheque 3
+aeva,0,2018-08-13,,City of Vancouver,water utility,154.42,TD bill pay
+aeva,1,2018-10-09,,Crown Roofing,deposit gutter,378.00,td VISA 2146.01 with roofing
+aeva,1,2018-10-09,,Crown Roofing,deposit roofing,1768.01,TD VISA 2146.01 with gutters
+aeva,0,2018-10-18,,Stefan Brunhoff,architect,4760.90,financial arrangement see email to SB 2018-10-18
+ielo,0,2018-10-18,,Stefan Brunhoff,architect,3021.56,financial arrangement see email to SB 2018-10-18
+aeva,0,2018-10-25,,4Ws Demo Ltd,asbestos abatement and demolition,10994.55,TD cheque
+aeva,0,2018-11-29,,Eric Man KSM,Structural Engineering Services,315.00,TD etransfer CA***C7x
+aeva,1,2018-12-04,,Crown Roofing,roofing,7072.03,td VISA
+aeva,0,2018-12-07,,City of Vancouver,water utility,102.63,TD bill pay
+ielo,0,2018-12-18,,Stefan Brunhoff,city permit fee,1007.00,TD emt
+aeva,1,2018-12-21,,Crown Roofing,gutters,1512.00,td VISA
+aeva,1,2018-12-21,,Crown Roofing,roofing,11093.33,td VISA
+aeva,0,2018-12-22,,City of Vancouver,additional plan review,1125.30,EMT CA***XFZ to Stefan Brunhoff
+aeva,1,2019-01-03,,Whitelaw Twining Law,legal services,2500.00,na
+aeva,1,2019-01-23,,Crown Roofing,roofing,5512.50,td VISA
+aeva,1,2019-01-31,,Wicks Electric,temp electricity,458.89,emt CA***ggR
+aeva,0,2019-03-27,,Michael Hicks,Invoice 2019-13 (552),24197.02,TD cheque
+aeva,1,2019-04-03,,Stefan Brunhoff,architect,2022.75,emt CA***xzh
+aeva,1,2019-04-15,,City of Vancouver,water utility,32.61,TD bill pay
+aeva,0,2019-04-17,,Michael Hicks,Invoice 2019-15 (553),35456.25,BlueShore cheque
+aeva,1,2019-04-27,,Eric Man KSM,Structural Engineering Services,1509.38,TD etransfer
+aeva,0,2019-05-10,,Michael Hicks,Invoice 2019-19 (554),11237.61,BlueShore cheque 004
+aeva,0,2019-07-09,,Michael Hicks,Invoice 2019-24 (556),4181.65,emt 2019-07-09 for 3000 and 1181.65 on 2019-07-20
+aeva,1,2019-08-01,,689006 B.C. Ltd,Gerard Sass code consultant invoice 07-19-11-4552,2165.14,blueshore cheque 008
+aeva,1,2019-08-01,,Alexanders Plumbing and Heating Ltd,plumbing,12804.75,blueshore cheque 006
+aeva,1,2019-08-30,,Tadco Electric,city overtime,1188.00,blueshore cheque 010
+aeva,1,2019-09-04,,Alexanders Plumbing and Heating Ltd,plumbing,11791.50,td cheque 110
+aeva,1,2019-09-04,,Tadco Electric,deposit,13650.00,td cheque 111
+aeva,0,2019-09-06,,Michael Hicks,Invoice 2019-35 (558),5391.25,TD cheque 115
+aeva,0,2019-09-17,,West Coast Design Windows,deposit,12900.00,8900 from TD CC 4000 from Costco CC
+ielo,0,2019-09-29,,Michael Ma,structural engineer retainer,650.00,TD chq 160
+aeva,1,2019-10-07,,Michael Hicks,Invoice 2019-39 (559),7859.61,TD cheque 117
+aeva,1,2019-10-07,,Michael Hicks,Invoice 2019-44 (561),22779.74,Blueshore cheque 030
+aeva,1,2019-10-13,,Chevrolet,gas for garbage disposal,10.71,TD VISA
+aeva,1,2019-10-13,,Home Depot,van rental for garbage disposal,78.35,TD VISA
+aeva,1,2019-10-13,,Vancouver Transfer Station,garbage disposal,76.00,TD VISA
+aeva,1,2019-10-28,,Crown Roofing,deposit roofing deck,913.50,TD VISA
+aeva,1,2019-10-28,,Eric Man KSM,Structural Engineering Services invoice 2591,315.00,TD etransfer
+ielo,0,2019-11-01,,homestep.ca,energy reup form,577.50,TD emt
+aeva,1,2019-11-07,,Whitelaw Twining Law,legal services,1063.33,TD VISA
+aeva,1,2019-11-08,,Centre Line Fire Sprinklers,rough in invoice 3295,21000.00,Blueshore chq 028
+aeva,1,2019-11-21,,Crown Roofing,roofing deck,8221.50,TD VISA
+ielo,0,2019-11-21,,Michael Ma,structural engineer,800.00,TD chq 123
+aeva,1,2019-11-22,,689006 B.C. Ltd,Protection Engineering code consultant invoice 0006,824.25,TD cheque 161
+aeva,1,2019-11-25,,Citywide Sundecks and Railings,back deck,1260.00,email transfer
+aeva,1,2019-12-05,,Ming Electric Ltd,fire alarm deposit,8137.00,Blueshore chq 029
+aeva,1,2019-12-09,,Tadco Electric,balance,20475.00,td cheque 176
+ielo,0,2019-12-23,,City of Vancouver,Bulding Permit Fee,663.50,paid out to Stefan Brunhoff by emt
+aeva,1,2019-12-23,,Peet and Cowan,private lending fee deposit,3000.00,emt to Trevor Cullen
+aeva,1,2019-12-24,,Lawrenson Walker Real Estate Appraisers Ltd,Jenish appraisal,420.00,td visa
+aeva,1,2019-12-24,,Lawrenson Walker Real Estate Appraisers Ltd,Tischer appraisal,472.50,td visa
+aeva,1,2019-12-28,,Fireplaces Unlimited,fireplaces,3512.77,td visa
+aeva,1,2019-12-31,,Fortis and BC Hydro,2019 utilities,1046.71,ongoing bill pay
+aeva,1,2020-01-10,,Alexanders Plumbing and Heating Ltd,plumbing,19766.25,td (14016.25) and blueshore chq
+aeva,0,2020-01-10,,West Coast Design Windows,final balance,14783.36,td visa
+aeva,0,2020-01-15,,dba Fireplaces Unlimited,fireplaces,4313.68,TD CC
+aeva,0,2020-01-15,,Michael Hicks,Invoice 2020-01 (562),18864.25,TD cheque 165
+aeva,0,2020-01-22,,Peet and Cowan,private lending fee,9000.00,add to 3000 deposit subtracted from payout
+aeva,0,2020-01-22,,Peet and Cowan,Title Insurance,450.00,subtracted from payout
+aeva,0,2020-01-23,,Bridgehouse Law,Peet and Cowan legal fees,2660.27,Wayne Ma
+aeva,0,2020-01-23,,insurance binders for Peet and Cowan,Waypoint Insurance,70.00,Wayne Ma
+aeva,0,2020-01-23,,interest for Peet and Cowan,Peet and Cowan,14235.00,automatic withdrawal for 150000
+aeva,0,2020-01-23,,Peet and Cowan application fee,Peet and Cowan,395.00,Wayne Ma
+aeva,0,2020-01-23,,Peet and Cowan title insurance,Stewart Title Guaranty Company,210.00,Wayne Ma
+aeva,0,2020-01-23,,plumbing engineer,SRC Engineering,2940.00,TD cheque 167
+aeva,0,2020-01-23,,Wayne Ma legal fees,Wayne Ma,890.00,Wayne Ma
+aeva,0,2020-02-06,,BC Hydro and Fortis,utilities june 2018 to january 2020 222--241,1731.69,ongoing bill pay
+aeva,1,2020-02-06,,Tadco Electric,balance,12258.75,Blueshore cheque 014
+aeva,0,2020-02-13,,Michael Hicks,Invoice 2020-02 (563),6749.75,Blueshore cheque 011
+aeva,1,2020-02-21,,Opticnet,low voltage electrical,2100.00,TD cheque 168
+aeva,0,2020-03-05,,BC Hydro,electrical connection,43589.70,TD bill pay K4U5H7
+aeva,0,2020-03-09,,City of Vancouver,water connection fee,19953.00,10000 TD visa 5000 Costco 4993 PCMC
+aeva,0,2020-03-10,,Michael Hicks,Invoice 2020-08 (564),19995.56,TD cheque 170
+aeva,0,2020-03-25,,Eric Man KSM,Structural Engineering Services invoice 2756,315.00,TD etransfer
+aeva,0,2020-04-03,,Sona Drainage and Sewers,backyard work for City and BC Hydro,7087.50,TD cheque 171
+aeva,0,2020-04-17,,dba Fireplaces Unlimited,City of Vancouver gas permits,445.20,TD visa
+aeva,0,2020-04-19,,Michael Hicks,Invoice 2020-11 (565),24237.78,TD cheque TBA
+aeva,0,2020-05-07,,Michael Hicks,Invoice 2020-12 (566),16880.66,TD cheque 173
+aeva,1,2020-05-23,,Home Depot backsplash tile,scan,1014.50,home depot cc
+aeva,0,2020-05-24,,T Ferrara Drywall,drywall deposit,21840.00,TD cheque 174
+aeva,0,2020-05-25,,Centre Line Fire Sprinklers Ltd,rough in,11025,TD cheque 175
+aeva,0,2020-05-25,,689006 B.C. Ltd,Protection Engineering code consultant invoice 4681,3990,TD cheque 118
+ielo,0,2020-05-27,,Eric Man KSM,Structural Engineering Services invoice 2812,315.00,TD etransfer
+aeva,0,2020-05-28,,Sona Drainage and Sewers,sanitary sewer line,12180.00,TD cheque 179
+aeva,1,2020-06-02,,Red Seal Plumbing,camera work,404.25,emt CA***KVb
+aeva,1,2020-06-08,,Restoration Hardwood,deposit,6318.23,TD cheque 180
+aeva,0,2020-06-16,,Michael Hicks,Invoice 2020-15 (567),34676.96,TD cheque 181
+aeva,1,2020-06-16,,Standard Insulation,Invoice 21338,25286.10,TD cheque 182
+aeva,1,2020-06-22,,Eecol,light fixtures,3580.86,Costco CC
+aeva,0,2020-06-24,,Pacific Rim Cabinets,kitchen and bathroom cabinets,19510.97,TD cheque 185
+aeva,1,2020-06-24,,Mountainside Painting Ltd,painting,9690.00,TD cheque 183 saved 180.00 by offering cheque over credit card
+aeva,1,2020-06-29,,Coast Appliances,appliances,5650.00,TD visa
+aeva,1,2020-06-30,,Robinson,lighting,770.56,TD visa
+aeva,0,2020-07-06,,Sona Drainage and Sewers,sanitary sewer line,10657.50,TD cheque 186
+aeva,1,2020-07-06,,RBS Doors,doors,11974.25,PC CC
+aeva,0,2020-07-09,,Michael Hicks,Invoice 2020-16 (568),35988.55,TD cheque 187
+aeva,1,2020-07-08,,Home Depot,Coiling Lights,162.69,PC mastercard
+aeva,1,2020-07-07,,Home Depot,Coiling Lights,27.98,PC mastercard
+aeva,1,2020-07-07,,Home Depot,Exterior Lights,228.82,PC mastercard
+aeva,1,2020-06-20,,Home Depot,Glass Pendant,30.28,PC mastercard
+aeva,1,2020-06-20,,Home Depot,lanterns,227.65,PC mastercard
+aeva,0,2020-07-21,,SRC Engineering,plumbing engineers,644.07,TD cheque 188
+aeva,1,2020-07-27,,Alexanders Plumbing,plumbing,23824.50,TD cheque 189
+ielo,0,2020-07-28,,Sterling IAQ Consultants,hazmat,1905.75,TD CC
+aeva,0,2020-08-10,,Pacific Rim Cabinets,kitchen and bathroom cabinets,15608.78,TD cheque 190
+aeva,1,2020-08-07,,Restoration Hardwood,deposit,4300.00,TD cheque 191
+aeva,0,2020-08-18,,Michael Hicks,Invoice 2020-17 (569),40634.57,TD cheque 192
+aeva,1,2020-08-15,,Coast Appliances,appliances,5644.98,PC MC
+aeva,1,2020-08-19,,Paragon Surfacing,countertop,1200.00,PC MC
+aeva,1,2020-07-22,,Richmond Building Supplies,mo,1982.25,TD visa
+aeva,1,2020-08-19,,Restoration Hardwood,hardwood,5545.29,TD cheque 193
+aeva,1,2020-08-20,,Paragon Surfacing,countertop,5628.98,Costco MC
+aeva,0,2020-08-25,,City of Vancouver,water connection fee reimbursement,-7258.28,cheque 100819999
+aeva,1,2020-08-28,,Banner Carpets Ltd,carpet deposit,2156.00,PC MC
+aeva,1,2020-08-29,,Crown Roofing,two vents,525.00,TD VISA
+aeva,1,2020-09-05,,Behrens Marble and Tile,tiling,4462.50,TD cheque 195
+ielo,0,2020-09-07,,Michael Ma,structural engineer,31.50,TD EMT
+aeva,1,2020-09-10,,RBS Doors,mouldings,453.01,PC MC
+aeva,1,2020-09-10,,RBS Doors,handles,2507.35,PC MC
+aeva,1,2020-09-10,,Paragon Surfacing,countertop,5828.84,PC MC
+aeva,0,2020-09-11,,Michael Hicks,Invoice (570A),26701.19,TD cheque 196
+aeva,1,2020-09-18,,Mountainside Painting Ltd,painting,2833.08,PC CC they will give discount for cheque
+aeva,0,2020-09-18,,Michael Hicks,Invoice (570B),18783.46,TD cheque 197
+aeva,1,2020-10-01,,Pacific Rim Cabinets,kitchen and bathroom cabinets,3902.19,TD cheque 201
+ielo,0,2020-10-01,,homestep.ca,energy reup form,183.75,waveapps using TD CC
+aeva,1,2020-10-01,,Restoration Hardwood,vinyl,6245.13,TD cheque 202
+aeva,0,2020-10-02,,Michael Hicks,Invoice (571A),14480.59,TD cheque 203
+aeva,1,2020-10-13,,Banner Carpets Ltd,carpet,1436.05,PC MC
+aeva,1,2020-10-16,,Coast Appliances,appliances,5277.00,TD CC
+aeva,0,2020-10-16,,Michael Hicks,Invoice (571B),25784.40,TD cheque 204
+aeva,1,2020-08-13,,Richelieu,hardware,22.96,TD visa
+aeva,1,2020-10-22,,Optimizer Solutions,closets,5661.60,TD visa
+aeva,1,2020-10-22,,Tadco Electric,balance,13863.15,TD cheque 205
+aeva,1,2020-10-22,,Eagle Sheet Metal Ltd,metal work,1166.15,TD visa
+aeva,1,2020-10-22,,Mountainside Painting Ltd,painting,8334.90,TD cheque 206
+aeva,1,2020-11-02,,Super Glass,windows,3654.00,TD visa
+aeva,1,2020-11-01,,University Landscapers,landscaping,10500.00,TD cheque 207
+aeva,0,2020-11-02,,Stefan Brunhoff,architect,697.00,emt 2020-11-12
+ielo,0,2020-11-02,,Stefan Brunhoff,architect,1847.77,emt 2020-11-12
+aeva,0,2020-11-04,,Michael Hicks,Invoice (572A),2466.81,emt
+aeva,0,2020-11-05,,Michael Hicks,Invoice (572A),2466.81,emt
+aeva,0,2020-11-06,,Michael Hicks,Invoice (572A),2466.82,emt
+aeva,1,2020-11-05,,Alexanders Plumbing,plumbing,18280.50,TD cheque 208
+aeva,1,2020-11-06,,Behrens Marble and Tile,tiling,3360,TD cheque 209
+aeva,1,2020-08-05,,Lowes,paraphernalia,516.75,Costco CC
+aeva,1,2020-07-13,,Richmond Building Supplies,mo,453.01,PC MC
+aeva,1,2020-09-10,,Richmond Building Supplies,mo,2507.35,PC MC
+aeva,1,2020-06-19,,Coast Appliances,appliances,743.40,TD CC
+aeva,1,2020-08-04,,Robinson,lighting,773.92,unknown
+aeva,1,2020-11-15,,Home Depot,van rental for garbage disposal,111.95,td visa
+aeva,1,2020-11-15,,Vancouver Transfer Station,garbage disposal,58.00,TD VISA
+aeva,1,2020-11-15,,Vancouver Transfer Station,garbage disposal,29.00,TD VISA
+aeva,0,2020-11-15,,Estelita Cleaning,cleaning,250,emt
+aeva,1,2020-11-17,,Graybar Metal Works,railings deposit,2000,deposit 40 percent of 4998 PC MC
+aeva,0,2020-11-18,,Michael Hicks,Invoice (572B),15166.37,td cheque 210
+aeva,0,2020-11-20,,Centre Line Fire Sprinklers Ltd,completion,6930.00,emt in 3 instalments
+aeva,1,2020-11-23,,City of Vancouver,street use permit,124.99,PC MC was not this already paid?
+aeva,1,2020-11-24,,amazon,fake surveillance,32.99,amazon
+aeva,1,2020-11-24,,amazon,mailboxes,104.40,amazon
+aeva,1,2020-11-24,,amazon,mirror,36.54,amazon
+aeva,1,2020-11-24,,Canadian Tire,address numbers,125.07,Canadian Tire MC
+aeva,1,2020-08-26,,Home Depot,faucet,133.28,TD visa
+aeva,1,2020-10-16,,Home Depot,light fixture,352.10,TD visa
+aeva,1,2020-07-24,,Home Depot,paraphernalia,44.57,TD visa
+aeva,1,2020-08-16,,Home Depot,light fixture,485.93,TD visa
+aeva,1,2020-08-16,,Home Depot,lights,354.19,TD visa
+aeva,1,2020-08-31,,Home Depot,lights,117.78,TD visa
+aeva,1,2020-08-27,,Home Depot,lights,58.22,TD visa
+aeva,1,2020-10-01,,Home Depot,lights,321.07,TD visa
+aeva,1,2020-11-28,,Shoppers Drug Mart,batteries for surveillance camera,27.50,PC MC
+aeva,0,2020-11-18,,Michael Hicks,Invoice (572A),5000,TD cheque 211
+aeva,1,2020-12-04,,MetroGuard Security,alarm system installation,1449,TD visa
+ielo,0,2020-12-15,,homestep.ca,energy reup revision,262.50,waveapps using TD CC
+ielo,0,2020-12-16,,Michael Ma,structural engineer,210,EMT  CA***7zb
+aeva,1,2020-12-16,,City of Vancouver,Fire Safety Plan Review,252,CC
+aeva,1,2020-12-17,,Home Depot,van rental for garbage disposal,111.95,td visa
+aeva,1,2020-12-17,,Vancouver Transfer Station,garbage disposal,78.00,TD VISA
+aeva,1,2020-12-20,,Super Glass,windows,231.00,TD visa
+aeva,0,2020-12-17,,Michael Hicks,Invoice (572A),2500,emt
+aeva,0,2020-12-23,,Michael Hicks,Invoice (572A),2500,emt
+aeva,1,2020-12-23,,Home Hardware,key cutting,7.49,TD CC
+aeva,1,2020-12-07,,Graybar Metal Works,railings,2998.00,TD CC
+aeva,1,2020-09-02,,Home Depot,curved rod,290.07,TD CC
+aeva,0,2020-12-31,,solidifi appraisals,Tischer appraisal,572.25,BlueShore LOC
+aeva,1,2021-01-02,,University Landscapers,landscaping,367.50,emt CA***RvD
+aeva,0,2020-11-18,,Michael Hicks,Invoice (572A),5000,applied to deposit
+aeva,0,2020-12-15,,Eric Man KSM,Structural Engineering Services invoice 2060,525.00,TD etransfer CA***MJP original receipt 2018-03-31
+aeva,1,2021-01-02,,Michael Hicks,Invoice (574),8587.49,TD cheque 199
+aeva,1,2020-11-13,,Mountainside Painting Ltd,painting,1869.00,TD cheque 212 for 1832
+aeva,1,2020-12-07,,University Landscapers,landscaping,18322.50,TD cheque 213
+aeva,1,2020-12-09,,Tadco Electric,balance,11292.75,TD cheque 214
+aeva,0,2020-12-21,,Ming Electric Ltd,fire alarm,9062.00,TD cheque 215
+aeva,1,2020-12-27,,Opticnet,low voltage electrical basement,1711.50,TD cheque 216
+aeva,1,2020-12-27,,Opticnet,low voltage electrical main,1837.50,TD cheque 216
+aeva,1,2020-12-27,,Opticnet,low voltage electrical top,2080.00,TD cheque 216
+aeva,1,2021-01-26,,689006 B.C. Ltd,Protection Engineering code consultant invoice 4795,1653.75,TD cheque 217
+aeva,1,2021-02-16,,Stefan Brunhoff,architect,1035,emt 2021-02-16 invoice 15
+ielo,0,2021-02-16,,Stefan Brunhoff,architect,137.50,emt 2021-02-16 invoice 5
+aeva,1,2021-03-03,,Tadco Electric,balance,382.20,TD cheque 219
+aeva,1,2021-03-20,,Michael Hicks,Invoice (575),1672.53,emt CA***cyT
+fpry,1,2021-05-03,,Newgrange Construction,deposit,10000.00,TD cheque 225
+ohyo,1,2020-12-01,,home depot,ceiling fan,59.99,claimed in 2021 when paid
+preb,1,2016-04-06,,Advent Home Solutions,asbestos,210,cheque 392
+preb,0,2016-07-31,,Newgrange Construction,construction,16880.07,
+preb,0,2016-08-21,,Newgrange Construction,construction,10457.38,
+preb,1,2016-06-18,,Brian Barker,plumbing,1249.50,cheque
+preb,0,2016-10-21,,Newgrange Construction,construction,911.65,
+preb,0,2016-07-08,,Rona,windows,811.44,
+preb,1,2015-11-16,,Tantalus Technologies,demo,332.36,
+preb,1,2015-11-08,,Squamish Landfill,garbage disposal,40.00,cash
+preb,1,2015-11-10,,Duncan Morgan,flooring,100.00,EMT transfer
+preb,1,2016-01-30,,District of Squamish Landfill,construction garbage,40.80,TD CC
+preb,1,2016-01-30,,District of Squamish Landfill,construction garbage,43.20,TD CC
+preb,1,2016-02-01,,A and B Tool Rentals,jackhammer,105.28,TD CC
+preb,1,2016-05-27,,Home Depot,supplies,30.46,BlueShore
+preb,1,2016-06-17,,Barry Thomson,foundation repair,315.00,EMT transfer
+preb,0,2016-01-31,,Duncan Morgan,bathroom,140.00,cash
+preb,0,2016-05-27,,Home Depot,bathroom,2586.08,BlueShore
+preb,0,2016-07-26,,Home Depot,supplies,3136.66,BlueShore
+preb,0,2016-10-03,,Newgrange Construction,contractor,7964.63,contractor
+aeva,1,2021-05-05,,APNA fire,fire safety plan,2419.20,emt
+laej,1,2021-05-07,,Colour Craft,painting downstairs suite deposit,400,Costco CC
+fpry,1,2021-07-18,,Newgrange Construction,invoice LUK-210717,21500.00,BlueShore cheque 2 from account 2151 
+fpry,1,2021-08-22,,Newgrange Construction,invoice LUK-210822,12600,
+laej,1,2021-07-18,,City of Vancouver,water bill 0172 sewer metered and meter charge,357.38,td bill pay
+ekah,1,2021-10-29,,Better Care,dishwasher repair,231.00,emt receipt in sherrys email
+laej,1,2021-10-29,,Better Care,washing machine repair,426.10,emt receipt in sherrys email
+ekah,1,2021-11-12,,Vancouver Backflow Testing Ltd,backflow testing,136.50,emt
+laej,1,2021-11-22,,Pinerock Commissioning,Rudy Sawatzky boiler service,212.63,emt
+ohyo,1,2021-12-14,,craigslist sale,dryer,350,cash
+laej,0,2022-01-05,,Brian Barker,new hot water tank,372.75,emt
+ekah,0,2022-02-14,,Alex Riaboy,dishwasher repair,231.00,emt
+ekah,0,2022-02-14,,Alex Riaboy,dishwasher repair part,126.00,emt
+laej,0,2022-02-24,,Ellen Gosney,fix Evelyn shower,467.94,emt
+ohyo,0,2022-02-24,,Liesl Petersen,indoor painting deposit 25 percent of total,1720,emt
+ohyo,0,2022-03-08,,Liesl Petersen,indoor painting invoice 262,5157.50,emt in 2 halves
+ohyo,0,2022-03-08,,Wesley Coates,fix sink and faucet,337.50,
+ohyo,0,2022-03-05,,Home Depot,new sink and faucet,428.58,phils receipt
+laej,0,2022-03-15,,Vancouver Chimney Chief,chimney cleaning,315.00,emt
+ielo,0,2022-06-03,hmrwkyyk,KeyPlus Building Systems,deposit,50000,BlueShore cheque 013
+ielo,0,2022-06-16,pemxjbkb,Fontile Corp Ltd,tile,461.71,
+ielo,0,2022-07-02,eideefoo,Got Junk,garbage disposal,1212.60,
+ielo,0,2022-06-30,xmuikari,Home Depot,van rental,58.74,td visa
+ielo,0,2022-08-20,osmzjpgy,Best Choice Moving,moving and storage,2525.25,emt
+ielo,0,2022-08-10,jglskpox,KeyPlus Building Systems,invoice,157785.64,TD cheque 254
+ielo,0,2022-09-14,fqxffcfc,Aryan storage,,310.50,TD EMT
+ielo,0,2022-08-15,fpedtdxs,Aryan storage,,562.50,TD EMT
+ielo,0,2022-10-03,xoljfwhc,BC Hydro,change to 200 amps,987.00,TD bill pay
+ielo,0,2022-10-03,nqkakmlw,KeyPlus Building Systems,invoice,103414.03,TD cheque 255
+ielo,0,2022-10-11,yacndveg,Aryan storage,,414.00,TD EMT
+ohyo,0,2022-10-04,fmxnjmxy,Cameron Plumbing,hot water heater,1995.00,EMT in two instalments 900 and 1095
+ohyo,0,2022-10-04,lpwdxljg,Cameron Plumbing,pipe replacement,245.57,EMT
+ielo,0,2022-10-10,waqthrum,tile storage blaine,Mailboxes International,365.40,263 USD chase cc
+ielo,0,2022-10-10,tusamezm,tile customs,CBSA,291.36,TDCC
+ielo,0,2022-10-19,nsfljstc,KeyPlus Building Systems,invoice,60037.36,TD cheque 256
+ielo,0,2022-10-20,povdxgnc,Trendybucks,painting supplies,5.58,cc
+ielo,0,2022-10-18,jxqpznpe,Sherwin-Williams,painting supplies,68.26,CIBC CC
+ielo,0,2022-10-22,fguysncm,IKEA,bathroom furniture,524.28,TD CC
+ielo,0,2022-10-27,gcmdrbwa,Home Depot,fridge,2862.99,HD CC
+ielo,0,2022-11-05,jkfbdonw,Uhaul,rental truck,132.34,TD CC
+ielo,0,2022-11-05,vratpfdk,Esso,gas for rental truck,11.89,TD CC
+ielo,0,2022-11-05,xkczjvub,Husky,gas for rental truck,11.85,TD CC
+ielo,0,2022-11-10,nitzfark,KeyPlus Building Systems,invoice 1383,81414.30,TD cheque 256

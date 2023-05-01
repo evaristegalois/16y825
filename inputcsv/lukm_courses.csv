@@ -1,0 +1,56 @@
+courseid,school,letter,coursenum,year,description
+953,TRN,GERM,101,2004,german i
+650,REG,LANG,500,2004,hebrew and greek intro
+453,DGL,MATH,191,2004,math for teachers
+190,TRN,RELS,222,2004,ancient israelite religion
+929,DGL,MATH,1110,2005,precalculus
+770,DGL,MATH,1160,2015,statistics
+695,UBC,PHIL,375,2015,narrative spring
+468,UBC,PHIL,120,2016,logic intro
+648,BCIT,MATH,1441,2016,precalculus foodtech
+178,BCIT,MATH,1511,2016,precalculus geomatics
+675,BCIT,MATH,2511,2017,calculus
+104,BCIT,MATH,2441,2017,statistics
+832,UBC,PHIL,375,2017,kafka spring
+508,UBC,PHIL,375,2017,hermeneutics fall
+526,UBC,PHIL,375,2017,hermeneutics summer
+806,BCIT,MATH,1511,2017,precalculus geomatics
+818,BCIT,MATH,1441,2017,precalculus foodtech
+192,BCIT,MATH,2441,2018,statistics
+218,BCIT,MATH,2511,2018,calculus
+152,UBC,PHIL,375,2018,nietzsche summer
+776,BCIT,MATH,1441,2018,precalculus foodtech
+503,BCIT,MATH,3512,2018,matrix methods geomatics
+360,UBC,PHIL,375,2019,nietzsche spring
+522,BCIT,MATH,2441,2019,statistics
+638,BCIT,MATH,2511,2019,calculus
+701,UBC,PHIL,375,2019,kafka summer
+182,BCIT,MATH,1441,2019,precalculus foodtech
+287,BCIT,MATH,3512,2019,matrix methods geomatics
+368,BCIT,MATH,1491,2019,mechanical engineering calculus
+917,BCIT,MATH,2441,2020,statistics
+795,BCIT,MATH,2511,2020,calculus
+944,UBC,PHIL,375,2020,hermeneutics spring
+774,UBC,PHIL,375,2020,hermeneutics summer
+665,UBC,PHIL,375,2020,hermeneutics fall
+632,UBC,PHIL,102,2020,phil intro fall
+496,UBC,PHIL,102,2021,phil intro spring
+597,BCIT,MATH,1441,2020,precalculus foodtech
+335,BCIT,MATH,3512,2020,matrix methods geomatics
+880,BCIT,MATH,2441,2021,statistics
+667,BCIT,MATH,2511,2021,calculus
+582,UBC,PHIL,375,2021,hermeneutics summer
+396,UBC,PHIL,375,2021,hermeneutics fall
+120,BCIT,MATH,1441,2021,precalculus foodtech
+898,BCIT,MATH,3512,2021,matrix methods geomatics
+666,BCIT,MATH,3503,2021,calculus two mining
+326,UBC,PHIL,338,2022,law spring
+894,BCIT,MATH,4499,2022,diffeqs and vector calculus
+157,BCIT,MATH,2511,2022,calculus
+514,UBC,PHIL,375,2022,hermeneutics summer
+485,UBC,PHIL,338,2022,law fall
+977,UBC,PHIL,240,2022,epistemology fall
+782,UBC,PHIL,375,2023,hermeneutics spring
+168,BCIT,MATH,1441,2022,precalculus foodtech
+519,BCIT,MATH,3503,2022,calculus two mining
+884,BCIT,MATH,3512,2022,matrix methods geomatics
